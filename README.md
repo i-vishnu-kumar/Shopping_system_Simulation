@@ -1,5 +1,5 @@
 # Shopping_system_Simulation
- Created a shopping system for games. The build folder contains the WEBGL build of the folder but it may require certain changes in your browser before running it. 
+ Created a shopping system for games. The "Exported_Scene" folder contains the WEBGL build of the folder but it may require certain changes in your browser before running it. 
  The same file can be imported as new package in Unity and the scene can be loaded to use.<br />
  <br />
  Screenshots of the simulation.
